@@ -35,19 +35,17 @@ import pandas as pd
 import numpy as np
 
 
-
+# Setup Cron jobs for daily and weekly report breakdowns for email and to 
+# place into weekly resources discussion
 
 # Edit these!
-start_date = '2016-08-22'
-end_date   = '2016-08-26'
+start_date = '2016-08-29'
+end_date   = '2016-08-30'
+output_file("output.html")
 
 
-
-
-output_file("robert_wk2_breakdowns.html")
-
-#data = trello_transform.generateData()
-#data_bd = trello_transform.processData(data)
+data = trello_transform.generateData()
+data_bd = trello_transform.processData(data)
 
 department_breakdown = data_bd.groupby('departments').aggregate(np.sum)
 operations_breakdown = data_bd.groupby('operations').aggregate(np.sum)

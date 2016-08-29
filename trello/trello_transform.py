@@ -37,8 +37,8 @@ def processData(data):
         # Pull out the work object and normalize for merging with the card object
         # I am being really lazy here and will need to rework all of this code
         # Quick and Dirty to get stats on work
-        
-        
+    
+    # Move this out and pull from data source ourselves  
     operations = ['Ad Hoc Requests', 'Research', 'Operations']
     departments = ['Communications',
                        'Marketing',
@@ -46,10 +46,7 @@ def processData(data):
                        'Visitor Information Center',
                        'International & Leisure Sales']
     
-    
     wk = pd.DataFrame(data)
-    
-    
     
     # Go to work on the hours field, format for summation
     wk['hrs'] = wk['hrs'].str.replace(' hrs','')
@@ -108,7 +105,6 @@ def outputData(data):
                        'Visitor Information Center',
                        'International & Leisure Sales',
                        'Personal Development']        
-
 
 
     wk = pd.DataFrame(data)
