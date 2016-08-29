@@ -166,9 +166,6 @@ def outputData(data):
                     wk_v2.loc[index,'departments'] = row0[1]
                     
                     
-                    
-                    
-                    
     wk_v2['hrs'] = wk_v2['hrs'].apply(float)
     del wk_v2['labels']
     return wk_v2
