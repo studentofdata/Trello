@@ -3,6 +3,8 @@ import requests
 import json
 """This module grabs the "TODO DAILY" Trello board.
 
+rename so it says "extraction" rather than pull.
+
 Here we take a board url as well as credentials to access the board via Trello. With this
 we take down the board and process the cards into a data structure. Each card title is going
 to represent a task and each card can have attributes and content associated with it. A card in our
@@ -39,17 +41,11 @@ json_data = json.loads(resp.text)
 
 #Here is the function that will generate a data structure parsing the json_data 
 def generateTrelloData():
-    # ADD IN PROPER DOCUMENTATION FOR THIS FUNCTION HERE
-    # PROPOSE TWO AMENDMENTS
-
-    # We need to pull in dates surrounding tasks (cards) as well as the boards
-    # Cards are associated with
-    # We need dates for everything as well as better card documenting
-
-    # * Describe the full work_object
-    # The work object is going to be a list of all tasks (cards) indexed by int
-    # Not sure why I chose to do that.
-
+    """ The initial Trello grab, data is immediately parsed into a 'work_object' and 
+    returned. work_object only contains the data pieces needed for the current analysis
+    because all data is available anyways with timestamps, no need to download and store
+    entire copies of trello boards every day,week,month. This is the Extraction process """
+    
     work_object = []
     i = 0
     for card in json_data:

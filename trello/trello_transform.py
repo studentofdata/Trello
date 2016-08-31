@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 19 10:38:14 2016
+"""This module transforms the work_object produced from 'trello_pull.py'
 
-@author: Cloud User
+The data is generated via the generateTrelloData() function and then transformations
+are performed in order to visualize or model data.
+
+rename so it says "extraction" rather than pull.
+
+MORE DOCUMENTATION NEEDED
+
+
 """
 
 import trello_pull
@@ -11,29 +17,15 @@ import re
 import pandas as pd
 import numpy as np
 
-###############################################################################
-# TODO
-#
-# 1. Utilize weeks
-#       1. Specify a date range for the function to pull the proper week
-#       2. Make sure we are flexible to pull out various data
-#
-#   Not all departments will be filled out, all operations should be filled out
-#
-#
-# 2. Update report with Titles and Text amendments
-# 3. Find an interesting way to update weekly text pieces
-#
-#
-
 
 def generateData():
+    """Come up with a function for general data access for future transforms"""
     data = trello_pull.generateTrelloData()
     return data
 
 
-def processData(data):
-    
+def processPieChartData(data):
+    """General Function to process the data down to fit into two pie charts"""
         # Pull out the work object and normalize for merging with the card object
         # I am being really lazy here and will need to rework all of this code
         # Quick and Dirty to get stats on work
@@ -54,9 +46,7 @@ def processData(data):
     wk.hrs = wk.hrs.apply(str)
     wk.hrs = wk.hrs.apply(lambda x: x.split(','))
     
-    # Go to work on the date field, format for inclusion on general Timing
-    
-    
+        
     # Sum via loop for lack of a better way. Can't imagine performance is going to 
     # Matter for just me. However, this is a shitty way
     for index, row in wk.iterrows():
@@ -65,13 +55,18 @@ def processData(data):
         hrs_sum = sum(hrs)
         wk.loc[index, 'hrs'] = hrs_sum
     
-    
+    # Transform labels from comma separated cells to cells of lists attached with 
+    # task names
     spacen = lambda x: pd.Series([i for i in reversed(x.split(','))])
     wk_new_labels = wk['labels'].apply(spacen)
     wk_new_labels['task_name'] = wk['task_name']
     
+    # Merge the task names to the main data set, taking lists of labels with
     wk_v1 = pd.merge(wk, wk_new_labels, on = 'task_name')
     
+    # Pick apart the lists of labels, into their respective columns of operations
+    # and departments using in on predefined lists. Need to update lists if this
+    # is to be expanded
     for index, row in wk_v1.iterrows():
         row0 = str(row[0])
         row1 = str(row[1])
@@ -86,14 +81,13 @@ def processData(data):
         if row1 in departments:
             wk_v1.loc[index, 'departments'] = row1
             
-    
     wk_v2 = wk_v1[['ids','hrs','labels','task_name','departments','operations']]
 
 
     return wk_v2
 
-def outputData(data):
-    
+def processTableData(data):
+    """Transform data for output to bokeh table"""
     #     Pull out the work object and normalize for merging with the card object
     #     I am being really lazy here and will need to rework all of this code
     #     Quick and Dirty to get stats on work
