@@ -21,8 +21,8 @@ API_TOKEN = '169780f1bd281ee68f4819fd382094aa8edbde41632856226c12e58f74631f98'
 O_AUTH = 'd5e32347118a51db16e311083d9608402281b3a88549926326b6d08199a9d41c'
 
 #The board url I grabbed from trello
-board_url = 'https://trello.com/b/SiE5d0Ic/todo-daily'
-board_id = '57a918baa38e9b4b94e18b7b/'
+board_url = 'https://trello.com/b/Sp2HcxAo/priorities'
+board_id = '585021d7fbc44111976eea79/'
 
 
 #Trello API calls
@@ -43,8 +43,8 @@ json_data = json.loads(resp.text)
 def generateTrelloData():
     """ The initial Trello grab, data is immediately parsed into a 'work_object' and 
     returned. work_object only contains the data pieces needed for the current analysis
-    because all data is available anyways with timestamps, no need to download and store
-    entire copies of trello boards every day,week,month. This is the Extraction process """
+     no need to download and store entire copies of trello boards every day,week,month. 
+     This is the Extraction process """
     
     work_object = []
     i = 0
@@ -52,6 +52,7 @@ def generateTrelloData():
         current_card = card
         task_name = current_card['name']
         card_id = str(current_card['id'])
+
         try:
             labels = current_card['labels']
             num_labels = len(labels)
@@ -67,10 +68,10 @@ def generateTrelloData():
         work_object[i]['labels'] = ','.join(work_type)
         work_object[i]['ids'] = card_id
         
-        print task_name, " ", card_id
         cards_response = requests.get(base_path + cards + card_id + "/actions")
     
         cards_data = json.loads(cards_response.text)
+        board_name = ''
         hrs = []
         name = []
         date = []

@@ -82,9 +82,8 @@ def processPieChartData(data):
             wk_v1.loc[index, 'departments'] = row1
             
     wk_v2 = wk_v1[['ids','hrs','labels','task_name','departments','operations']]
-
-
     return wk_v2
+
 
 def processTableData(data):
     """Transform data for output to bokeh table"""
