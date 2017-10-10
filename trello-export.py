@@ -38,8 +38,8 @@ def print_cards(json_object, outputfile):
 			if ('card' in action['data'] and
 				action['data']['card']['id'] == card_id and 
 				action['type'] == 'commentCard'):
-				comments.append(action['data']['text'])
-		return '\n'.join(comments)
+				comments.append(action['date'] + ' - ' + action['data']['text'])
+		return '\n| '.join(comments)
 
 	def labels(card):
 		label = ''
