@@ -1,0 +1,952 @@
+ID,Story,Description,Checklist,Comments,Labels,Due Date,Members
+1,Read Reports,,,,,,
+2,Smith Travel Mailing List,,,,,,
+3,Pull Destination Competition Data,"Grab 04-current all BLS QCEW data for analysis and questions. 
+
+Begin to build out and house the gold standard on competitive economic profiles
+
+1. Start with all QCEW in a digestible and accessible FACT table with associated dimension tables within reach.
+
+2. Bake in Traded clusters and industry cluster focuses",,,"
+",,
+4,Explore SimpleView,Watch the intro video,"Watch Intro Video
+Phone training session for Import tool and reporting
+Create Table Files for database configuration and querying
+Current layout of priorities and data upload/reporting",,Urgent & Important,,
+5,Headshot and Contact Info,,,,,,
+6,Read Marketing Campaign Recaps,,,,,,
+7,RNI Room Night Index,Do a complete writeup,,,"Urgent & Not Important
+Urgent & Important",,
+8,Read Brand Communication & Effectiveness Survey,,,,,,
+9,TTRA,,,,,,
+10,Meeting Agenda for SMARI,,,,,,
+11,Read Website Audit,,,,,,
+12,Calculate Non-Lodging Spend from Dean Runyan Report,,,,,,
+13,International Campaign ROI analysis,,,,"
+",,
+14,Formalize Analytics Plan,Formalize the plan and layout and phases/gantt chart for analytics plan.,,,"Urgent & Important
+",,
+15,Email for Burrellous,,,,,,
+16,"Read Mastercard report, Add 9/12 meeting onto schedule",,,,"
+",,
+17,Email for event calculator destination marketing,,,,,,
+18,Quick review of ROI Intnl spend,,,,,,
+19,Finish Scorecard for Alliah,,,,"
+Urgent & Important",,
+20,Update Tax Offset for residents,,,,,,
+21,Draft NDA for Mccvb in airport analysis,,,,,,
+22,Acquaint myself with Visit California Research Web http://industry.visitcalifornia.com/Research/,,,,"
+",,
+23,Per Capita Tax Contributions for Compset listed in email. Some analysis included,file:///P:\Market%20Intelligence\Per%20Capita%20Tax%20Contributions%20by%20County%20'10-'15.xlsx,,,,,
+24,Create Workbook for Allyson Booking.com data - A favor and overhead saver,,,,,,
+25,Alliah - Update TOT City Totals for 2015-2016,,,,,,
+26,Update cards by department,,,,Urgent & Important,,
+27,Destination Think POI Paper,,,,"
+",,
+28,Writeup Destination Analysts,,,,"
+",,
+29,Trello Time Tracking Automation,"Finish dataset that allows for subsetting for hours at the right time. 
+
+Plots-
+          - top 3 most active tasks
+          - completed tasks
+          - Tasks worked on this week but not completing 
+
+
+          - current graphs of type and department
+          - live Gantt chart ",,,Urgent & Important,,
+30,Document Trello_pull.py,"Edit the labels IN to be pulled from all available labels. Pull Colors and names.
+
+This is how they should be used.",,,Urgent & Important,,
+31,Organize Research Folders on P Drive,,,,"Urgent & Important
+",,
+32,Metrics & Measurement Dictionary,,,,"Urgent & Important
+",,
+33,Destination Think POI Writeup,,,,"
+",,
+34,Standard Operating Procedure Template,Spend 1 hr - Update and send out to Jen,,,Urgent & Important,,
+35,Move projects and code to github,,,,Urgent & Important,,
+36,Arrivalist Introduction,,,,"
+",,
+37,Check with Alliah Regarding 5th of the Month.,"Compare notes
+
+Detail all instructions",,,"Urgent & Important
+",,
+38,Next week we need to figure out TripAdvisor $85k decision to go with their planning tool.,,,,,,
+39,Mini Monthly Scorecard SOP,,,,"
+Urgent & Important",,
+40,Research Projects Proposals,"Social Analytics: An Internal Analysis
+
+Destination vs Organization Analytics: How should we look at competition?
+
+Hotel Reporting: What should these guys be getting from us?
+",,,"
+",,
+41,Read 16-17 BP,,,,"
+",,
+42,Business Plan Editing,,,,"Urgent & Important
+",,
+43,Reports & Analysis Methods,Work Flow & Preservation Manifesto,,,,,
+44,Industry Based Research Outputs,,,,"
+",,
+45,Paperwork,,,,Urgent & Important,,
+46,Event Impact Calculator,,,,,,
+47,Scorecard Reporting,Update Scorecard to reflect my figures,,,"Urgent & Important
+",,
+48,Delivery Schedule & Documentation,"Birds Eye Planner
+
+Compile all Templated Deliverables",,,"
+Urgent & Important",,
+49,Onsite Advertising Analysis,"Grab every month from booking com where we have data...
+
+
+Append all data in single location
+
+
+
+Look for DTN traffic
+
+Curate list of users and when they were exposed
+Use that to look at non member click through rates
+
+Non member traffic....
+
+CTR rates for what? CTR rates ",,,"
+",,
+50,Email Alliah on VPS Release,,,,,,
+51,"Small Tasks: San Francisco Travel, Expense Reports, Organize Notes",,,,"Urgent & Important
+",,
+52,Sales Committee/Meetings Research & Prep,,,,"Urgent & Not Important
+",2016-10-25T19:00:00.000Z,
+53,Sustainability Symposium,"What do we want to accomplish
+
+
+Reading List:
+Mandala Research Sustainability Travel Tourism 2016
+Alliah
+
+
+
+
+How are we going to measure success?
+
+Where are we now, now that we know what success looks like?",,,"
+",,
+54,PG Commerce Digital Media Help,,,,,,
+55,VPS Study Followup,,,,"Urgent & Important
+",,
+56,VPS Phone-Call Follow Up,,,,"Urgent & Important
+",,
+57,ROI Grids,We need to manage the processes for updating the Marcomm & Sales ROI Grids,,,"Urgent & Important
+",,
+58,Updating Website,,,,"Urgent & Important
+",,
+59,BookingCOM Conversion Rates,,,,"
+",,
+60,SimpleView Dashboard Work,,,,"Urgent & Important
+",,
+61,CSUMB - Paul Allen Pitch,"Contact organizations who may possess data I am seeking.
+Check for contact info in simpleview
+",,,,,
+62,Meetings,,,,Urgent & Important,,
+63,Excel VBA - Who Last Edited,,,,"Urgent & Important
+",,
+64,5 Things to Know From the CEO,"Generate comprehensive market intelligence reports that summarize the destination's performance, *industry trends*, competitors, potential and existing customers, and current campaigns.",,,"Urgent & Important
+",,
+65,SMARI Survey Revamp,"Take out not very likely
+Aware vs Unaware
+Try 100-80-20
+JPGs on Earned Media 
+Q24a.) Topic List
+",,,"
+",,
+66,Quarterly ROI Report,,,,"Urgent & Important
+",,
+67,Template Engine v1,,,,Urgent & Important,,
+68,Effects of adding a Sales Person,,,,"
+",,
+69,Forecasting ADR-OCC-REVPAR,,,,"
+",,
+70,Template Projects with CC DS,,,,,,
+71,BookingCom - Reconcile Data,,,,"Urgent & Important
+",,
+72,"VIC Survey, Metric Design",,,,,,
+73,CSUMB - Sustainability Capstone,"Todo:
+Send over Alliah's Sustainability
+
+Flesh out the research ask
+update the questions on the questionnaire
+
+",,,"
+",,
+74,Email Aaron on Import Tool for CRM,,,,,,
+75,STR Extraction,"Build the basic framework...
+
+Import File
+
+Read in Priority
+   -Segmentation Multi-Segment
+   -Segmentation Multi-Segment Raw
+
++Transform Priority
+
++Load Priority
+
++Refactor and Improve",,,"Urgent & Important
+",,
+76,"Timeline Priorities, Show Rob",,,,,,
+77,Comp-set Analysis,"TODO:
+
+-Re align columns for Aggregated Sets
+
+
+QUESTIONS:
+-If we are summing all 'room nights' to understand total annual percent change, how do you account for the fact that the supply changed month to month? Wouldn't the total supply of rooms in that month effect demand?
+
+Do you SUM(ROOM NIGHTSyear)/SUM(SUPPLYyear)
+
+
+We can only do this type of analysis til April 2014.... We lose demand & revenue by segment thereafter
+
+email-
+tourism economics
+visitCA
+STR
+
+
+
+
+We are testing GROUP
+-ADR
+-RevPAR
+-OCC
+
+We have to bake the entire compset down into one compset growth average.
+We aren't interested in the size of the comp set, we are interested in the relative sizes of the comp set growth, just that they are competitors who have some level of growth.
+
+The new charts should have three lines for growth... Monterey County, City of Monterey, and Compset Average.
+
+After these 3 graphs are completed with 3 lines each.
+
+
+
+Take a look at ADR or RevPAR with TID Growth overlaid. so it will contain 4 lines. 1 of our Compset average, 2 representing us and 1 represented TID
+
+
+REPLACE
+-The data in Comp-Set-STR-ALL for Monterey City, CA with Monterey-County-City-STR-ALL..
+
+Need to make it consistent with my first released set of data
+
+
+
+
+
+
+*Use the micro data and annual growth as Paul has it defined.
+    -Total Supply*Occ = Total Room Nights
+    -Total Revenue/Total Room Nights = ADR
+    -Occ*ADR=RevPAR
+
+",,,,,
+78,Do we have digital metrics for native advertisements,,,,"
+",,
+79,Scorecard Update Person-Room-Nights,,,,Urgent & Important,,
+80,Market Valuation by Geo & Audience Segment,"	More readily identifying by-market valuation is very important By geo and by audience segment Glad you saw their way  lets create ours
+	In particular, traveler valuation by segments  which traveler is most valuable is a game changer for us
+",,,"
+",,
+81,GM/POS Survey,,,,"
+",,
+82,Monthly CRC Talking Points,,,,"Urgent & Important
+",,
+83,Monthly Infographics,,,,"Urgent & Important
+",2016-10-18T19:00:00.000Z,
+84,Crimson Hexagon,"Meeting Agenda to April & Allyson
+",,,"
+",,
+85,RESEARCH READING,,,,,,
+86,Scorecard Extraction,"-Refactor, move over code to config file
+
+-Explore & Map Out SimpleView DB",,,"Urgent & Important
+",,
+87,Follow up with Allyson on Incentives for CSUMB Survey,,,,,,
+88,Scorecard Transformation,"1. Collapse the Number of Characters in the key
+2. Insert keys into the location of the template docs",,,"Urgent & Important
+",,
+89,Marketing Tracking Tools & Metrics Analysis,,,,"
+",,
+90,SOP Email Draft,Respond to ticket and start rough draft of SOP,,,,,
+91,Email Paul & Angel,,,,"
+",,
+92,Marketing Intelligence Report,,,,"
+",,
+93,Analytics Plan,"Revisit the plan.
+
+Update the plan, based on what we know now.
+
+Deliver the Scorecard SOP",,,Urgent & Important,,
+94,Simpleview Scorecard Ticket,Need to submit the ticket.. upload scorecard so they see an example,,,"Urgent & Important
+",,
+95,SMARI Metric Presentation,,,,"
+",,
+96,What is our media mix in spending?,"How do we spend money?
+
+How do we measure the money being spent?
+
+##############################################
+Where do we spend money?
+
+",,,"
+",,
+97,How do we measure?,,,,"
+",,
+98,How can we brace ourselves with MCC and slowing group business?,,,,"
+",,
+99,"Chris from Miles, How does he measure Intent to Visit",,,,"
+",,
+100,Path to decision... Length of time between beginning research and traveling,,,,"
+",,
+101,Q4 VPS Study,"All participants get hard copy after survey is completed
+Compose Email to Destination Analysts describing this upcoming wave and locations.
+CC Rob, Alliah",,,"
+",,
+102,Airbnb Economic Impact & The Future of our Hotelier performance,,,,"
+",,
+103,"Follow up heavily with LA, check notes, provide value for Frank",,,,"
+",,
+104,Do an example report to our hoteliers about the Comp Set,,,,"
+",,
+105,MOF Outlook Highlights,Need the slides from the presentation in order to deliver more value,,,"
+",,
+106,Do shit you know is going to come up again,,,,,,
+107,Destination Performance Report,"Meeting about this.. consider quarterly breakout.
+
+Fix this so it fits the current script",,,"
+",,
+108,How can we anticipate changes in international visitation?,,,,,,
+109,Destination Performance Compset Writeup,,,,"
+",,
+110,International Travel Grid,"Executive Summary
+ - Scrap Russia & South Korea
+ - Visitation & Visitor spend on the top countries being advertised to
+ - Exchange rate differentiator
+ - Visitor Spending
+
+
+Boil it down between Primary & Secondary",,,"
+",,
+111,Reach out to Mammoth about Tourism Economics,Emailed. Waiting for response,,,"
+",,
+112,Feeder Markets by Source,"-VIC
+-",,,,,
+113,Put out a legit forecast,,,,"
+",,
+114,Festivals & Impacts POV,,,,"
+",,
+115,Burrelles Luce Automation,Setup email,,,Urgent & Important,,
+116,Domestic Feeder Markets,,,,"
+",,
+117,DA Comparison to Alliah,,,,"
+",,
+118,ID Research,Create Agenda and Gantt,,,"
+",,
+119,More data out to Lynn,,,,,,
+120,November + December Scorecard Tabs,,,,"Urgent & Important
+",,
+121,Email Martha Torres Q3 Interim Report,,,,,,
+122,Thomas Becker Data Reconcile,,,,"
+",,
+123,Update STR-Comp-Set-ALL,,,,,,
+124,Jen Johnson Paperwork,,,,"
+",,
+125,Update the CVB Committee Survey to reflect the most recent Survey Monkey edition,,,,"
+",,
+126,TID Proposal,,,,"
+",,
+127,Update students,,,,"
+",,
+128,ID Research into Action Plan,Out to Rob,,,"
+Urgent & Important",,
+129,Executive Summary for the Resident Sentiment Study,,,,"
+",,
+130,ID Research into Research Agenda through FY,,,,"
+Urgent & Important",,
+132,Marissa & Sales Committee Reach out,,,,,,
+133,Destination Performance Dashboard,"Create annual figure
+Add in KPIs
+edit and show paul",,,"Urgent & Important
+",,
+134,Signet Ad Study for Group Sales Research,,,,,,
+135,Statistics for VPS overview,,,,"Urgent & Important
+",,
+136,Information By Need,"Make sound bites about our general travel situations that our SLT team can refer to and utilize. 
+
+
+Need to wait for the rest of the data from 2016 to be able to make statements.
+
+Build in Winter vs Summer Profiles
+
+Here are the following Categories:
+-Transportation
+-Demographics
+-Income
+-Visitor Spending
+-STR
+-International Travel
+
+
+. I am making more of this type of content with the following in mind:
+
+1.	Monterey Tourism Quick Facts
+2.	Tourism Industry Quick Facts - X
+3.	MCCVB Quick Facts (Organizational)
+
+These will be for:
+
+1.	Years 2015 & 2016
+2.	Since Tammy came aboard
+3.	Since we launched the brand
+","Demographics
+Income
+Visitor Spending
+STR Dashboard - Growth
+International Travel
+Transportation",,,,
+137,Send out Tourism Economics Info,"Waiting on answer from Tammy
+
+-Scorecard
+-Funding Mechanism
+-Prop 26 Answer",,,,,
+138,VPS MCCVB Deck,,,,,,
+139,Respond to Kathy Again,,,,,,
+140,Outline when Surveys were conducted between Destination Analysts and SMARI,,,,,,
+141,Visit Intent vs Ad Exposure,,,,"
+",,
+142,SEO report,,,,"
+",,
+143,Email Out to Dean Runyan For Lynn,,,,,,
+144,Email Andrea,,,,,,
+145,Executive Summary on Intent to Visit KPI,,,,,,
+146,Tag Structure + Prioritization,,,,,,
+147,Quarterly Performance Reporting,"DSA REPORT*****
+
+CBTS Social Leverage Section.
+
+","Headers & Footers
+Dates
+Titles",,,,
+149,Email Marissa on Big Sur Data,,,,,,
+150,Rob & Mark Group Sales Data,,,,,,
+151,Respond to Paul Big Sur Data Email,,,,,,
+152,Review SMARI Results,,,,,,
+153,Sustainability Capstone Paper - Executive Summary,"Think about Goals before reading and skimming again.
+
+Prime the brain to find things we can leverage for marketing strategy",,,,,
+154,Book next VPS study,,,,,,
+155,Tourism Economics Kickoff after the 1st,,,,,,
+156,Event Impact Calculator,"Augment contacts with the list of events.
+Get with Alliah.",,,,,
+157,Piktochart,Update the Q2 report and data,"VIC
+Group Sales - STR
+MarComm
+Q2",,,,
+158,Sales committee survey results,"It needs to be cleaned up, I vomited the content. It needs to be tightened before heading out the door
+","Double Check PPT
+Spend 15 Minutes re-writing",,,,
+159,International Scorecard,"-Define necessary data format
+-Combine travel receptive data for combination into KPI
+-Create deck for KPI and next ideas or steps for strategy",,,,,
+160,International Scorecard,"-Compile list of potential org KPIs
+-Get data from David on org KPIs
+-Get Quarterly Performance
+-Fill out everything from CIC and I-94 figures",,,,,
+161,Quarterly STR Performance,,,,,,
+162,Marketing Intelligence Report,,,,,,
+163,Get with Jessica on full listing of earned media for Q2,,,,,,
+164,Get with Jessica to see what has gone to print,,,,,,
+165,Plan for the week and execute,,,,,,
+166,CRC Talking Points,,,,,,
+167,Sales Committee - GM + DOS notables,,,,,,
+168,USTA Steal,,,,,,
+169,Get back with Seanie on New Business figures,,,,,,
+170,VPS Portion of Marketing Intelligence Report,,,,,,
+171,Update Q1 Chart for DSA People,,,,,,
+172,Tourism Economics Delivery,,"History of MCCVB funding by source
+Summary budget for major categories of spending
+Scorecard for the past 2 years for sure and ideally for the past 3-4-5 years
+STR data for the past 5 years for Monterey County
+Compset broken out and described
+Send whitepaper for destination performance
+Group Sales overtime - events booked* start and end bookings, data peak room night, contract room, night block room rate, and start and end date of event
+Destination Analysts + SMARI - send them the latest reports
+Last 5 Annual Reports & Last 5 Audited Financials if possible",,,,
+173,top 10 international VIC Maya,,,,,,
+174,Check on Destination Report Reminder for STR. Check in with April on budget being okay,,,,,,
+175,Expedia Path to Purchase Summary,,,,,,
+176,UPDATES FOR STR,,"CBTS report
+Out to Jessica
+Sales Committee Presentation
+Quarterly Performance Reports
+Group Sales Infograph",,,,
+177,VPS Infograph to go out with Visitor Guide,Write up a draft for David Marzetti to go out to members describing what this is,,,,,
+180,STR renewal and vetting,,,,,,
+181,Implement Jurisdiction Report Changes,,,,,,
+182,Packaging Research Highlights,,,,,,
+183,Follow up with TE & DA,,,,,,
+184,Margin of Error and Significance for the Annual Studies VPS,,,,,,
+185,Geoff TE Data,,,,,,
+186,Research Calendar,"Calendar of Research & Releases
+
+Build in debrief",,,,,
+188,"Efficacy of the Campaign, what are the effects of content marketing?",,,,,,
+189,FYQ3 VPS,"The due date is so you can email DA and apologize about them signing the form, send email out to all participating locations asking to remind staff that we will be present and surveying
+",,,,,
+190,Recap DA Project,,,,,,
+191,Midyear Presentations,,,,,,
+192,Rob + Robert Skype,"-Event Impact Calculator Update
+-Research Calendar
+-Intent to Visit
+
+Follow Up:
+-Efficacy of Campaign
+
+
+-Video Conferencing",,,,,
+193,VPS Executive Summary,,,,,,
+195,EIC Calculator deep dive,,,,,,
+196,Vday dinner,,,,,,
+197,Alliah Touch Base Email Lady,,,,,,
+198,Paternity Plan,,,,,2017-03-21T19:00:00.000Z,
+199,Respond to Franc,,,,,,
+200,Send over data to DA,,,,,,
+201,DR - Seaside & Sand City Breakout in terms of verbiage. Please Fix,,,,,,
+202,Trump & Travel Bans,,,,,,
+203,Tour & Travel Metrics Systemized,"Actually put this into the scorecard. 
+Update Destination KPIs for international visitation
+Include proper metrics
+Look to include VPS information into international visitation
+
+
+
+Cumulative Comparative Rankings 
+http://digital.ipcprintservices.com/publication/index.php?i=162225&m=&l=&p=1&pre=&ver=html5#{""page"":12,""issue_id"":162225}",,,"
+",,
+204,Email Julie Armstrong,,,,,,
+205,Email Dan Mishell,,,,,,
+206,Tableau Research + Franc Talking Points,,,,,,
+207,Email Statistics on behalf of Visitor Information Center,,,,,,
+208,Quarterly Web Page Recommendations,"Robert to provide MKTG team with web trends, content recommendations, etc.
+
+Top performing content
+
+bottom-of-the-fold performing content
+
+3 recommendations on content
+
+2 recommendations on tracking and google analytics
+
+
+Go into affinity categories for content suggestions
+          -Bounce Rate
+          -Pages/Session
+          -",,,,,
+209,Finish Alliah request on slides,,,,,,
+210,Formalize destination analyst send,,,,,,
+211,Request PTO,,,,,,
+212,EIC-BSIM,"Economic Impact Calculator - Big Sur International Marathon
+",,,,2017-03-31T19:00:00.000Z,
+213,Email Franc - Plan of Attack,,,,,,
+214,EIC-Additional Contacts,,,,,,
+216,Past Due Cell Phone Bills,,,,,,
+217,Plan the Week out,"What should I be doing?
+What is the long term strategy?",,,,,
+218,Update Unincorporated County of Monterey DSA presentation,,,,,,
+219,Set up meeting between TE SMARI and MCCVB (Invite Rob/Alliah?),,,,,,
+220,BWS Tool,"1. Download File
+
+2. Drag and drop columns + rows into excel master
+
+2 (opt.) leave it in a Google Drive folder for autotagging. After auto-tag. download and drag and drop columns + rows into excel master
+
+3. Begin Tagging Process
+
+4. Write to CSV and Import",,"2017-08-02T04:21:50.755Z - 1 hrs
+| 2017-07-26T15:36:53.821Z - 4 hrs
+| 2017-06-14T23:05:28.166Z - 2 hrs
+| 2017-06-13T22:14:53.978Z - 4 hrs
+| 2017-06-01T18:48:51.060Z - 1 hrs
+| 2017-05-31T18:15:22.377Z - 1 hrs
+| 2017-05-30T16:48:38.719Z - .5 hrs",,2017-07-03T19:00:00.000Z,
+221,TE TID Analysis,"Slide Changes:
+S3
+S6
+S16
+S20
+S22 It says public funding in 3 locations, this needs to be presented properly
+S24 Not sure what to do here for the note 'Overall Budgets?'
+S25 She does not like this slide!
+S27
+S28
+S30
+S31
+S32 - The Losses in Absence of TID Scenario is an image. PUSH BACK
+S33
+S34
+
+S39- we fit at the top with $397 of visitor spending per ad dollar. Ad dollar here is defined as our total public spending. ($2.7bn/$6.8m)
+
+
+Follow up for Rob
+- slide 20, Canada Section
+- 
+",,,,,
+222,PR Media Tagging Automation,,,,,,
+223,Hourly Visitor Counts for Visitor Services,"Heatmap by Month
+Expand Dashboard for peak days and peak hours
+Add in heaviest events for the City of Monterey as notes at the top",,,,,
+224,EIC - Mazda Raceway,,,,,2017-03-17T19:00:00.000Z,
+225,Event Impact Reporting,,,,,,
+226,Carmel Resident Association & Benchmark Study,,,,,,
+227,TID Analysis to know for the CEO,"This is meant to be an update
+
+summary
+        - Where we stand on TID analysis
+        - ROI Differences
+        - Final Steps
+        - Finalization by end of next week",,,,,
+228,TID Report,"This is the standardized portion of the TID report. This has requirements and needs to follow the format/structure/requirements of the Reports/14-15/Monterey TID Report 
+
+Something something salinas valley etc. ",,,,,
+229,Cancel PiktoChart,,,,,,
+230,Audit Comm xlsx docs,,,,,,
+231,Infographs,,,,,,
+232,Respond email,"Tammy
+Rob
+Alliah
+",,,,,
+234,International Pitch Deck to Rob,"International Strategy:
+",,,,,
+235,Quarterly Reporting,"Third Quarter Destination Marketing Report
+",,,,,
+236,Create Economic Impacts Report - Highway Closure,,,,,,
+237,April Budget,Follow up with Mark & Marissa on STR figures and their location,,,,,
+238,Email Chuck data on Traffic through SLO and recommendations on DA and TE,,,,,,
+239,Update VIC infograph for new visual,,,,,,
+240,Board infograph for STR figures,,,,,,
+241,Modeling Highway 1,,,,,,
+242,Get with Rob (or Paul) on TID Analysis and feedback direction from Tammy,,,,,,
+243,STR Infographs,"Look at page:
+
+-Break out YTD & Monthly
+",,,,,
+244,Cell Phone Reimbursement,,,,,,
+246,Update Scorecard STLY,,,,,,
+247,Coding up Survey in Survey Monkey,,,,,,
+248,Vocus Import SOP,"Fix the template so rows are consistent.
+
+If month day is not available, have a default value. Check if no date, If no date then calculate date of sheet month
+
+How to enter in dates explicitly if error",,,,,
+249,Call CalTrans,,,,,,
+250,Adelaide on Progress for VPS report,,,,,,
+251,Winter vs Summer Profiles?,,,,,,
+252,EIC-Rodeo,,,,,2017-03-31T19:00:00.000Z,
+253,FCC-Net Neutrality Look Into,,,,,,
+254,DA needs to have the report before I leave,,,,,,
+255,International Pitch Deck,"Add in starter points about geo-political Trump slump and exchange rates
+
+
+
+slide 4 in mice type call out why Canada is not on the report
+
+
+last few slides -> destination scorecard to destination performance
+
+follow up on verification of International Room Nights
+
+",,,,,
+256,How much does VPS Cost?,,,,,,
+257,Alliah Sheta calculate social engagement/impressions,"Im hoping you can help us figure out some examples of how to calculate earned social engagement/impressions. I think were going to stick with impressions vs. having a value on it. 
+
+But I found this article in adweek that Im having trouble breaking down The ultimate guide to measuring earned media value on Facebook:  http://www.adweek.com/digital/the-definitive-guide-on-how-to-calculate-earned-media-value-emv/
+Would you be able to take a look and see if theres something we can use in calculating social impressions in earned media? Were trying to get some updates for the next Marketing Committee Meeting 4/6
+
+
+The other article I found: http://www.alistdaily.com/social/alist-summit-learning-measure-earned-media-value/ 
+Facebooks EMV highlights include a CPC value of $0.15 and a CPE of $1.97. The system breaks each engagement down into individual values, and Likes ended up being the least valuable ($0.39), because theyre so easy to do, while comments ($1.75) and shares ($1.93) require more effort. Shares are the most valuable, because shared content is cast to a wider audience, which is extremely valuable. Cost-per-page-likes can be purchased through auction bidding, and the team also factored in organic campaigns. Page likes are especially valuable to organic campaigns, because its proof that your campaign did so well that people want to subscribe to it, which can lead to other actions like comments and shares, so thats why its valued at $1.72.
+On Twitter, CPE came out to $1.73, replies are worth $1.58 and retweets are $1.67 and favorites are $1.49. Many of the values closely match Facebook, but Twitters most valuable action is gaining followers, which are valued at $2.39 each.
+
+And Jessica, this is another I found:
+",,,,,
+258,VIC Numbers Reporting,,,,,,
+259,Booking.com Revenue,,,,,,
+260,PG Presentation,,,,,,
+261,BOD Infographs,,,,,,
+262,Q3 Reports - Double Check,"CBTS - X
+PG - X
+Marina - X
+Seaside - X
+Unincorporated - X
+Salinas - X
+",,,,,
+263,Q3 Goal Infograph - Needs checking and updating based on first items.,,,,,,
+264,Dean Runyan,,,,,,
+265,DMO Industrywide Web Trends,,,,,,
+266,STR Infographs,,,,,,
+267,Media Request,,,,,,
+268,PR Media Download Automation,,,,,,
+269,Marketing SV Dashboards,Remove Social by Jurisdiction,,,,,
+270,Prep materials for Jaclyn,,,,,,
+271,MCCVB Goal & Metric Update,Follow up on KPI issue...,,2017-06-16T16:59:16.967Z - 3 hrs,,,
+272,Quarterly Reporting SOP,Standard operating procedures for our quarterly reporting process,,,,,
+273,Social Reporting Meeting,,,,,,
+274,Update upcoming months in scorecard,,,,,,
+275,Ad Hoc Data Requests,,,,,,
+276,Tammy Ad Hoc Request Panel,,,,,,
+277,CBTS Presentation Materials,,,,,,
+278,Update Allyson Scorecard Portion,,,,,,
+279,Vendor Communication for County Travel Impacts and Meetings Research,,,,,,
+280,Wendy Brickman Response,,,,,,
+281,Review Support Letter for Grant,,,,,,
+282,Infographs and Maya Help,,,,,,
+283,CRC Talking Points,,,,,,
+284,Meetings Research Review & Delivery,,,,,,
+285,Infographs,,,,,,
+286,Visit CA Economic Impact Report,,,,,,
+287,Scorecard SOP,,,,,,
+288,Ad Hoc Marketing Data Request,,,,,,
+289,5-10 Meetings Research Implications,,,,,,
+290,Brief on Industry Performance to SLT,"Yank out data from the Visit CA report
+",,,,,
+291,April+Paul Budget Meetings,,,,,,
+292,Arrivalist+Adara+Future,,,,,,
+293,Meeting,,,,,,
+294,Document Mapping PR Tool,,,,,,
+296,Send Adara budget and impression load,,,,,,
+297,SMARI Assets,,,2017-06-09T16:12:39.456Z - 2 hrs,,,
+298,ESTO Awards,,,,,,
+299,Dean Runyan Report Check,,,,,,
+300,June Marketing Committee Meeting,"For the agenda for this meeting  collective input from A, A and R.  We need to ensure the PPT for the actual meeting goes to Mimi two days in advance  even if its not complete
+
+1)	Business Plan Update
+a.	Leisure
+b.	Group 
+c.	International 
+d.	Communications Goal Tracking
+2)	Big Sur Update
+3)	Summer Marketing
+4)	Research Update
+a.	Meeting Planner research
+b.	STR Reporting  Group Hotels
+c.	Dean Runyan?
+d.	Other? 
+5)	Updates/Upcoming
+a.	ROI Grid Review
+b.	Summer of Love 
+c.	Car Week Comms Group Convening
+d.	Chicago Pop-up
+e.	Brand Photography
+
+For the PPT that goes out before:
+-	Big Sur Past Progress
+-	MCC Fam
+-	SeeMonterey.com Updates
+-	Content Activations
+o	Family Fun Blitz
+o	Spring Outdoor Adventure
+
+Red Notes comments
+-	Thank members for service Gift? 
+-	Does committee want to re-up?
+",,"2017-05-31T16:32:26.198Z - .25 hrs
+| 2017-05-31T16:04:56.087Z - .5 hrs
+| 2017-05-30T21:34:03.630Z - .5 hrs
+| 2017-05-30T17:19:57.708Z - .5 hrs",,,
+301,STR for Group,,,2017-05-30T22:57:51.937Z - .5 hrs,,,
+302,Marketing Funnel & Dimensions of Messaging,,,,,,
+303,Read SEO Brainstorming,,,2017-05-30T16:33:06.725Z - .25 hrs,,,
+304,Meetings Research Presentation,Implement Rob Changes,,"2017-07-25T17:02:43.999Z - 1 hrs
+| 2017-07-24T18:57:19.994Z - 1.5 hrs
+| 2017-07-21T16:50:33.062Z - 1 hrs
+| 2017-07-19T23:15:24.877Z - 1 hrs
+| 2017-07-19T21:34:59.391Z - 3 hrs
+| 2017-07-17T23:29:25.065Z - 1 hrs",,,
+305,Respond Email,,,2017-05-26T20:55:15.016Z - .25 hrs,,,
+306,Dean Runyan & Destination Performance,,,"2017-06-01T22:28:19.137Z - .5 hrs
+| 2017-06-01T20:06:35.805Z - 1 hrs
+| 2017-06-01T18:48:46.843Z - .5 hrs",,,
+308,Email Andrea,,,2017-05-30T15:47:48.519Z - .15 hrs,,,
+309,Follow up with VPS,,,"2017-06-19T17:32:42.245Z - 1 hrs
+| 2017-05-30T16:02:26.399Z - .15 hrs",,,
+310,PG Annual Report,,,"2017-06-09T17:49:52.206Z - .5 hrs
+| 2017-06-07T17:57:37.978Z - .5 hrs
+| 2017-06-06T22:42:34.380Z - 1.5 hrs
+| 2017-06-01T18:48:41.331Z - 1 hrs",,,
+311,STR Hotels Segment,,,2017-05-30T21:02:59.273Z - .5 hrs,,,
+312,Update Scorecard,,,,,,
+313,CRC Talking Points,,,"2017-06-09T21:34:02.761Z - 2 hrs
+| 2017-06-07T17:48:34.573Z - 1 hrs",,,
+314,Infographs,,,"2017-06-12T21:12:39.974Z - .5 hrs
+| 2017-06-12T21:08:11.344Z - 1 hrs",,,
+315,Email to confirm the poem,,,,,,
+316,Respond to Paul for Variance,,,,,,
+317,MMGY - Fall vs Winter for variation in visitor origins,,,2017-06-08T15:42:26.530Z - 1.5 hrs,,,
+318,"MMGY - Campaign Timing & Geo-choices, Why?",,,2017-06-09T17:50:10.973Z - .25 hrs,,,
+319,Copy of for VIC fix,,,2017-06-13T22:15:01.090Z - .5 hrs,,,
+320,City of Monterey AdHoc ROI,,,2017-06-08T16:57:14.398Z - 1 hrs,,,
+321,Meetings Research Points to Rob,,,,,,
+323,Adara & Terminal,,,2017-06-14T23:05:32.576Z - 2 hrs,,,
+324,Quarterly Reporting,,"PG
+Uincor
+Monterey
+Marina
+Seaside
+Salinas
+CBTS","2017-07-07T22:40:35.921Z - 5 hours
+| 2017-07-07T22:40:33.670Z - 5 hours
+| 2017-07-07T22:40:30.632Z - 15 hours
+| 2017-06-26T21:01:49.691Z - 1 hrs",,,
+325,Mimi Followup,,,,,2017-06-30T19:00:00.000Z,
+326,Scorecard on Simpleview,"-Create Simpleview Ticket for Scorecard
+-Email pivot table to Dan",,,,,
+327,Follow up with Alliah and Comms summarizing year-end reporting of the Brand & Communications Study,,,"2017-07-13T18:13:29.421Z - 1 hrs
+| 2017-07-11T17:19:48.089Z - 1.5 hrs",,2017-07-24T19:00:00.000Z,
+328,Social Influencer Reporting,"Create Dashboard Section
+
+",,"2017-07-18T15:52:35.393Z - 1 hrs
+| 2017-07-13T19:37:28.611Z - 2 hrs",,,
+329,Research reports in a single location,,,2017-06-30T16:10:18.815Z - .5 hrs,,,
+330,Gina Archuleta,-Potential Prospecting Report,,,,,
+331,CCTC Research Project,"
+
+2 prompts.
+
+1. Who is coming to CC?
+2. Who is CC targeting?
+
+we need to identify overlap and any research will help them build the foundation for the upcoming marketing plan they are pitching. 
+
+
+SLO
+MC
+",,"2017-09-07T21:17:30.566Z - 1 hrs
+| 2017-09-01T20:10:41.910Z - 2 hrs
+| 2017-08-21T22:29:37.080Z - 3 hrs",,2017-07-31T19:00:00.000Z,
+332,CRC Talking Points Reporting Formatting,,,"2017-07-17T23:29:36.908Z - 1 hrs
+| 2017-07-14T18:52:05.110Z - .5 hrs",,,
+333,Follow Up with SMARI Reporting,,,,,,
+334,Email Team on Final Research Location,,,,,,
+335,Annual Reporting Infographs,Quarterly Infographs,,"2017-08-04T16:28:06.826Z - .5 hrs
+| 2017-07-20T22:32:38.769Z - 1.5 hrs
+| 2017-07-14T18:28:43.010Z - 2 hrs
+| 2017-07-11T23:30:45.918Z - 1.5 hrs",,,
+336,MCC Citations Brief,,,"2017-07-05T20:35:23.339Z - 1 hrs
+| 2017-07-05T17:10:25.605Z - 1 hrs
+| 2017-07-03T18:51:09.310Z - 1.5 hrs",,,
+337,FY Scorecard,Create Scorecard Through December,,"2017-08-31T20:05:23.856Z - 2 hrs
+| 2017-08-04T19:59:27.773Z - 1 hrs
+| 2017-07-31T21:23:55.230Z - 1 hrs
+| 2017-07-03T22:42:40.191Z - 1 hrs",,,
+338,Check-in Meetings,Email out to all data inputters for scorecard reminders,,,,,
+339,Monthly Update Meetings,Do we continue them?,,,,,
+340,Self Evaluation to Rob,,,2017-07-14T18:52:30.807Z - 2 hrs,,2017-07-14T19:00:00.000Z,
+341,Bullet Point MCCVB Cross Departmental International Notes,,,,,,
+342,June Scorecard,,,,,,
+343,"Campaign Economic Impact Brief to Alliah, Rob, and Jessica",,,2017-07-06T20:06:45.807Z - .75 hrs,,,
+344,Jurisdictional reporting for SOCIAL POSTS,,,,,,
+345,17-18 Plan Tasks,,,2017-07-12T18:23:35.183Z - 1 hrs,,,
+346,CRC Talking Points,,,"2017-07-10T18:59:16.011Z - 1 hrs
+| 2017-07-10T18:59:13.184Z - 1 hrs",,,
+347,Facts + Figures for Annual,,,2017-07-12T18:23:55.748Z - 1.5 hrs,,,
+348,How do Toll Roads Impact Tourism?,,,,,,
+349,Alliah Update Fast Facts Email,,,,,,
+350,Economic Impact for SMARI - Year End?,,,,,,
+351,Annual Reporting,Finish City of Monterey,,2017-08-04T16:27:59.129Z - 10 hrs,,,
+352,Biz Plan Situation Analysis,,,"2017-08-03T18:59:37.719Z - 5 hrs
+| 2017-07-28T18:17:42.946Z - 8 hrs",,,
+354,Monthly Infographs,Include Social Influencers in Infograph,,"2017-08-10T18:58:59.195Z - 1 hrs
+| 2017-08-09T17:15:49.325Z - 1 hrs",,,
+355,Work with Jen to reconcile our thoughts on economic impact from VIC,,,,,,
+356,VPS Secure Survey Sites,,,,,2017-09-06T19:00:00.000Z,
+357,Thoughts and verbiage into SmartSheet,,,,,,
+358,April Survey,,,,,,
+359,Carmel valley marketing request,,,2017-07-24T22:15:06.973Z - .75 hrs,,,
+360,Rob data check on Goals and Year End,,,2017-07-24T21:26:04.613Z - 1 hrs,,2017-07-25T19:00:00.000Z,
+361,John Turner CA opinion of Accessibility,,,2017-08-03T18:59:29.137Z - 1 hrs,,,
+362,Answer to Rob BSMAAC Meeting,,,,,,
+363,Goals & Metrics,,,2017-08-04T15:45:06.667Z - 2 hrs,,,
+364,Weekly notes with Jeniffer,,,2017-08-04T15:34:28.226Z - 1.5 hrs,,,
+365,International Visitation to MC,,,2017-08-04T22:04:38.001Z - 1.5 hrs,,,
+366,Referral traffic to MC,,,,,,
+367,Biz Plan to Jen horde and Justin@jrcopy.net upon completion and send to Tammy,,,,,,
+368,Reporting,,,,,,
+369,Massive Reporting Gantt Chart,,,,,,
+370,Analytics Projects Outline Through December,Get everything ONLINE,,,,,
+371,Dashboard Outline Through October,,,,,,
+372,Earned Media SOP and onboard data,Column2 and newspage2 fix,,"2017-08-21T22:12:23.852Z - 6 hrs
+| 2017-08-18T22:39:36.924Z - 6 hrs",,,
+373,Referral Traffic to CR Project,-Fill in definitions slide,,"2017-08-09T23:27:17.325Z - 1 hrs
+| 2017-08-09T15:52:51.316Z - 7 hrs",,,
+374,Create Sheet for Visitor Services,,,,,,
+375,Biz Plan,,,,,,
+376,Ping Elaine Rosquist,,,,,,
+377,Fix Budgets,,,,,,
+378,Find a new place to survey visitors in Carmel,,,,,,
+379,Biz Plan Heavy,"Fix page 1/2 of visitor center quotes. perhaps word cloud.
+
+Fix titles on visitor center pictures. Input data.
+
+",,2017-08-21T22:12:15.848Z - 5 hrs,,,
+380,Reporting Audit,"What does this even look like?
+
+matrix with rows as reports and columns as audiences",,,,2017-09-01T19:00:00.000Z,
+381,July Earned Media Reporting,,,2017-09-01T17:56:44.032Z - 5 hrs,,,
+382,Setup Quarterly Jurisdiction Reports and Quarterly Reporting,,"CBTS
+County
+Marina
+Monterey
+Pacific Grove
+Salinas
+Seaside","2017-09-13T17:56:59.352Z - 1.5 hrs
+| 2017-08-31T20:04:51.894Z - 4 hrs",,,
+383,MCHA - Research,,,,,,
+384,Resident Sentiment Study - Revamped,,,,,,
+386,Pacific Grove Marketing Summit Deck,,,2017-09-01T18:42:37.397Z - 2 hrs,,,
+387,Quarterly Jurisdiction Checkpoint 2,,,,,,
+388,CCTC Online Survey,,,"2017-09-27T16:51:56.794Z - 1 hrs
+| 2017-09-20T16:47:52.038Z - 1.5 hrs
+| 2017-09-14T19:03:33.135Z - 2 hrs
+| 2017-09-12T22:34:03.029Z - 4 hrs",,,
+389,Visitor Services and Membership SOP,,,2017-09-05T18:22:43.573Z - 3 hrs,,,
+390,Sacramento Keith Follow up,,,,,,
+391,Data out to Task Force,,,2017-09-06T21:29:47.260Z - 1 hrs,,,
+392,Email out to Rob,,,2017-09-06T21:29:43.321Z - .5 hrs,,,
+393,Chrissy for hits list number of members,,,,,,
+394,Fy16-17 referrals out,,,,,,
+395,CRC Talking Points,,,,,,
+396,Infographs,,"Visitor Services
+MarComm
+STR
+Group Sales",2017-09-12T22:13:02.166Z - 5 hrs,,,
+397,Jurisdiction Reporting Changes,"-Convert All Jurisdictions to City of Monterey Format
+-Create Jurisdiction Infograph
+     -Attempt to link via 'publisher' style
+-Create URL per jurisdiction with sections which allow for customization",,,,,
+398,POV on blcsys,,,,,,
+399,Fix Jurisdiction drop down for members,,,,,,
+400,Pseudo steps for Visitor Services,,,,,,
+401,Email Marina Chamber of Commerce,,,,,,
+402,SV Ticket for dashboard,,,,,,
+403,Email Krista and respond to CCTC,,,,,,
+404,Create Offsite Referrals Deck,,,,,,
+405,Web Report,,,,,,
+406,Jurisdiction Infograph,,,,,,Robert
+407,Adendums to Allyson & Maya,,,,,,
+408,Declaring variables in Excel Cells,Is it possible to declare variables in Excel cells and use them as parameters for formulas in other cells?   For example I would declare var1=10 in one of the cells. In another cell I would use var...,,,,,
+409,Earned Media,"Import Data
+
+
+Finish Salinas and Seaside Earned Media posts",,,,,
+410,KW list to member,,,,,,
+411,Fix https://res.cloudinary.com/simpleview/image/upload/v1/clients/montereycounty/Monterey_FY16_17_Year_End_Report_3411eb49-f155-449f-bbb0-1a642ff297cd.pdf,,,,,,
